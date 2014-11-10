@@ -10,6 +10,14 @@ struct TreeNode {
 	TreeNode(int x) : val(x), left(NULL), right(NULL) {}
 };
 
+
+/* Binary Tree creation interface */
+/*
+BOOL createBinaryTree(int &arr, TreeNode *root) {
+	// not realized yet
+}
+*/
+
 class Solution {
 	const int MIN_MOST = 0x80000000;
 public:
@@ -40,7 +48,6 @@ int _tmain(int argc, _TCHAR* argv[])
 	/* test data
 	{9,6,-3,#,#,-6,2,#,#,2,#,-6,-6,-6}
 	*/
-
 	TreeNode n1 = TreeNode(-6);
 	TreeNode n2 = TreeNode(-6);
 	TreeNode n3 = TreeNode(-6);
@@ -58,6 +65,9 @@ int _tmain(int argc, _TCHAR* argv[])
 	n7.right = &n5;
 	n9.left = &n8;
 	n9.right = &n7;
+
+	/* call Binary Tree creation interface */
+	// createBinaryTree(...);
 
 	Solution slt;
 	int res = slt.maxPathSum(&n9);
