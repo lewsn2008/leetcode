@@ -7,4 +7,5 @@ PathSum2 -- µÝ¹éÊ±µÄ»ØËÝ£¡
 BinaryTreeInorderTraversal -- ·ÇµÝ¹éËã·¨£¡
 BinaryTreePreorderTraversal -- ·ÇµÝ¹éËã·¨£¡
 BinaryTreePostorderTraversal -- ·ÇµÝ¹éËã·¨£¡[Hard]
-ValidateBinarySearchTree-- ·ÇµÝ¹éËã·¨£¡[Hard][Important]
+ValidateBinarySearchTree -- ·ÇµÝ¹éËã·¨£¡[Hard][Important]
+UniqueBinarySearchTrees2 -- µÝ¹éËã·¨! [Hard][Important]
