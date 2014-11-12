@@ -1,5 +1,9 @@
 
-Important(ÐèÒª»Ø¹Ë)£º
+#================================================================
+# Important(ÐèÒª»Ø¹Ë)
+#================================================================
 SymmetricTree -- ÇÉÃîµÝ¹é£¡
 PathSum2 -- µÝ¹éÊ±µÄ»ØËÝ£¡
 BinaryTreeInorderTraversal -- ·ÇµÝ¹éËã·¨£¡
+BinaryTreePreorderTraversal -- ·ÇµÝ¹éËã·¨£¡
+BinaryTreePostorderTraversal -- ·ÇµÝ¹éËã·¨£¡[Hard] 
