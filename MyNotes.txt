@@ -6,4 +6,5 @@ SymmetricTree -- ÇÉÃîµÝ¹é£¡
 PathSum2 -- µÝ¹éÊ±µÄ»ØËÝ£¡
 BinaryTreeInorderTraversal -- ·ÇµÝ¹éËã·¨£¡
 BinaryTreePreorderTraversal -- ·ÇµÝ¹éËã·¨£¡
-BinaryTreePostorderTraversal -- ·ÇµÝ¹éËã·¨£¡[Hard] 
+BinaryTreePostorderTraversal -- ·ÇµÝ¹éËã·¨£¡[Hard]
+ValidateBinarySearchTree-- ·ÇµÝ¹éËã·¨£¡[Hard][Important]
