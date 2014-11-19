@@ -9,3 +9,4 @@ BinaryTreePreorderTraversal -- 非递归算法！
 BinaryTreePostorderTraversal -- 非递归算法！[Hard]
 ValidateBinarySearchTree -- 非递归算法！[Hard][Important]
 UniqueBinarySearchTrees2 -- 递归算法! [Hard][Important]
+PopulatingNextRightPointersinEachNode -- 递归算法! [Hard][Important]
