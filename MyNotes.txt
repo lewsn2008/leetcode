@@ -13,3 +13,4 @@ PopulatingNextRightPointersinEachNode -- µİ¹éËã·¨!(Àí½âÒ»ÏÂÁ´½ÓµÄ¹ı³Ì£¬»­¸öÍ¼×ßÒ
 PopulatingNextRightPointersinEachNode2 -- µİ¹éËã·¨!(Àí½âÒ»ÏÂÁ´½ÓµÄ¹ı³Ì£¬»­¸öÍ¼×ßÒ»±é) [Hard][Important]
 FlattenBinaryTreetoLinkedList -- µİ¹éËã·¨! [Hard]
 FlattenBinaryTreetoLinkedList -- ·Çµİ¹éËã·¨! [Hard][ÇÉÃî]
+MinStack -- [ÇÉÃî]
