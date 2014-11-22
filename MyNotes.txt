@@ -18,3 +18,4 @@ ReverseInteger -- 溢出判断！
 TwoSum -- [巧妙][Important][使用map]
 3Sum -- [巧妙][Important]
 BestTimetoBuyandSellStock2 -- 没有思路，没想到这个规律。[Important]
+InsertionSortList
