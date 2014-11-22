@@ -15,3 +15,4 @@ FlattenBinaryTreetoLinkedList -- µİ¹éËã·¨! [Hard]
 FlattenBinaryTreetoLinkedList -- ·Çµİ¹éËã·¨! [Hard][ÇÉÃî]
 MinStack -- [ÇÉÃî]
 ReverseInteger -- Òç³öÅĞ¶Ï£¡
+3Sum -- [ÇÉÃî][Important]
